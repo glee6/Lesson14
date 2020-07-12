@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gtlee/WEB215/Lesson14/static/css/main.66170231.chunk.css",
+    "main.js": "/gtlee/WEB215/Lesson14/static/js/main.c278f957.chunk.js",
+    "main.js.map": "/gtlee/WEB215/Lesson14/static/js/main.c278f957.chunk.js.map",
+    "runtime-main.js": "/gtlee/WEB215/Lesson14/static/js/runtime-main.b06e5b57.js",
+    "runtime-main.js.map": "/gtlee/WEB215/Lesson14/static/js/runtime-main.b06e5b57.js.map",
+    "static/js/2.5c20e2d1.chunk.js": "/gtlee/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js",
+    "static/js/2.5c20e2d1.chunk.js.map": "/gtlee/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js.map",
+    "index.html": "/gtlee/WEB215/Lesson14/index.html",
+    "precache-manifest.c2776ac8d933819d66a7183192ea4216.js": "/gtlee/WEB215/Lesson14/precache-manifest.c2776ac8d933819d66a7183192ea4216.js",
+    "service-worker.js": "/gtlee/WEB215/Lesson14/service-worker.js",
+    "static/css/main.66170231.chunk.css.map": "/gtlee/WEB215/Lesson14/static/css/main.66170231.chunk.css.map",
+    "static/js/2.5c20e2d1.chunk.js.LICENSE": "/gtlee/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js.LICENSE",
+    "static/media/street_snow.jpg": "/gtlee/WEB215/Lesson14/static/media/street_snow.c53e8686.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b06e5b57.js",
+    "static/js/2.5c20e2d1.chunk.js",
+    "static/css/main.66170231.chunk.css",
+    "static/js/main.c278f957.chunk.js"
+  ]
+}
